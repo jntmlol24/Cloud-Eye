@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello_vue3
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -40,3 +41,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Cloud-Eye
+一个面向中小企业的轻量级智能运维监控平台，提供服务器监控、应用性能监控、日志分析、告警管理等功能。
+>>>>>>> d732c6a14eb16e6bbe6c8ccfe6d5c9093543a7ae
